@@ -2,6 +2,7 @@
  * jQuery Design Proof 1.0
  * @author Kyle Robinson Young <kyle at dontkry.com>
  * @copyright 2011 Kyle Robinson Young
+ * @license MIT license <http://www.opensource.org/licenses/mit-license.php>
  *
  * Usage:
  * 1) Add script tag for jquery, designproof, then call
